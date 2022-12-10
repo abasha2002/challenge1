@@ -1,0 +1,27 @@
+body{
+    background-color: yellowgreen;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+span{
+    color: red;
+}
